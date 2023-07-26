@@ -14,7 +14,7 @@ form {
 
 
 .bg {
-    height: 120vh;
+    height: 100vh;
     background-image: url(../img/jonatan-pie-3l3RwQdHRHg-unsplash.jpg);
     background-size: cover;
     background-position: center;
@@ -26,7 +26,7 @@ form {
 
 
 h1 {
-    color: rgb(45, 78, 85);
+    color: rgb(17, 127, 152);
     text-shadow: #ffffff -1px -1px 2px;
     font-size: 60px;
 
@@ -35,10 +35,10 @@ h1 {
 
 svg {
     font-size: 30px;
-    color: rgb(45, 78, 85);
-}
+    color: rgb(17, 127, 152);
+    }
 
-.myUsername,
-.myPassword {
-    font-size: 20px;
-}
+    .myUsername,
+    .myPassword {
+        font-size: 20px;
+    }
